@@ -29,7 +29,7 @@ A simple project to learn about accessibility in web development. This project i
 
 ## Live Demo
 
-[Accessibility Quiz](https://quintin.dev.github.io/Mini_Projects-Accessibility_Quiz/)
+[Accessibility Quiz](https://quintin-dev.github.io/Mini_Projects-Accessibility_Quiz/)
 
 ## Disclaimer
 
