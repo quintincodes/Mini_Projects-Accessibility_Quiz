@@ -8,31 +8,31 @@ A simple project to learn about accessibility in web development. This project i
 
 **HTML**
 
--   Semantic HTML
--   Roles
--   ARIA attributes
--   Regions
--   Forms
--   Labels
--   Input Fields
+- Semantic HTML
+- Roles
+- ARIA attributes
+- Regions
+- Forms
+- Labels
+- Input Fields
 
 **CSS**
 
--   Flex Box
--   Text styling
--   Aspect ratio
--   child selectors
--   classes
--   pseudo-selectors
--   sr-only class
--   @media query
+- Flex Box
+- Text styling
+- Aspect ratio
+- child selectors
+- classes
+- pseudo-selectors
+- sr-only class
+- @media query
 
 ## Live Demo
 
-[Accessibility Quiz](https://quintin-dev.github.io/Mini_Projects-Accessibility_Quiz/)
+[Accessibility Quiz](https://quintincodes.github.io/Mini_Projects-Accessibility_Quiz/)
 
 ## Disclaimer
 
--   This project will not be updated or maintained. It is a simple project to learn about accessibility in web development.
+- This project will not be updated or maintained. It is a simple project to learn about accessibility in web development.
 
 Feel free to star or fork this project and style it as you wish.
